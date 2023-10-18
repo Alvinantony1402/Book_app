@@ -27,29 +27,29 @@ In the project directory, you can run the following command to start the app:
 npm start
 
 
-###Images and Vedios
-##ScreenRecord
+### Images and Vedios
+## ScreenRecord
 https://github.com/Alvinantony1402/Book_app/assets/57410744/a47c1a05-dae6-4dd4-8824-0fa9162d414c
 
 
-###screenshots
-#Homepage
+### screenshots
+# Homepage
 
 ![Homepage](https://github.com/Alvinantony1402/Book_app/assets/57410744/286b9366-d2f2-4473-b83a-513969f83eef)
 
-#aboutme
+# aboutme
 
 ![Aboutme](https://github.com/Alvinantony1402/Book_app/assets/57410744/0dc13cee-0ea0-4381-a77b-8725eed7cf87)
 
-#Inventory page
+# Inventory page
 
 ![CartPage](https://github.com/Alvinantony1402/Book_app/assets/57410744/1dbb157c-3c64-4866-80d1-494687c5f892)
 
 
-#cart
+# cart
 ![cart](https://github.com/Alvinantony1402/Book_app/assets/57410744/c01286ff-a6e7-4c7b-b32c-df31a0a40f0b)
 
-#PayementReciept
+# PayementReciept
 ![PaymentRecipt](https://github.com/Alvinantony1402/Book_app/assets/57410744/023885a2-828d-4bb2-95a3-210f5775f6ad)
 
 
