@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+In the project directory, to fetch data from server,you have to run:
+
+### `npm install json-server`
+
+### `json-server db.json --watch --port 5000`
+
 In the project directory, you can run:
 
 ### `npm start`
